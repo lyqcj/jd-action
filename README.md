@@ -66,7 +66,7 @@
 
 #### ios使用多个京东账号，需要使用BoxJs保存多会话进行切换 
 
-##### BoxJs简单说明可看作者[BoxJs仓库地址](https://github.com/chavyleung/scripts/)
+##### BoxJs简单说明可看作者[BoxJs仓库地址](https://github.com/chavyleung/scripts/ )
 
 使用box可以实现远程订阅助力好友(需订阅此 [链接](https://raw.githubusercontent.com/lxk0301/scripts/master/lxk0301.boxjs.json))
 
